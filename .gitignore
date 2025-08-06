@@ -27,4 +27,5 @@ package-lock.json
 access.log
 node_modules/
 public/
+documentation
 

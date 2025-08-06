@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+
+.response-message {
+  margin: 3rem 0;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 14px;
+}
+
+.response-message-musician {
+  /* margin: 3rem 0; */
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 14px;
+}
